@@ -1,0 +1,6 @@
+@SupportAPIWebSession_HostAddress = http://localhost:5015
+
+GET {{SupportAPIWebSession_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
